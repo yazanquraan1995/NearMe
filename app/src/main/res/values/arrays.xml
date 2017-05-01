@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>سمك سردين معلب بالزيت</item>
+        <item>أنشوجة معلبة بالزيت</item>
+        <item>سمك تونة معلب بالماء</item>
+    </string-array>
+
+
+    <string-array name="quantities">
+        <item>28 جم</item>
+        <item>21 جم</item>
+        <item>85 جم</item>
+    </string-array>
+
+
+    <string-array name="calories">
+        <item>58</item>
+        <item>42</item>
+        <item>104</item>
+    </string-array>
+
+</resources>
